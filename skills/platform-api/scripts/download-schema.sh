@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Download latest Genesys Cloud Platform API OpenAPI schema
-# This script is intended for manual execution by humans only
 #
 # Usage: ./download-schema.sh [REGION]
 #
