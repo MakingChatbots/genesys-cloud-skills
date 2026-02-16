@@ -1,6 +1,6 @@
-# Genesys Cloud Skills
+# Genesys Cloud AI Agent Skills
 
-A collection of reusable [skills](https://skills.sh/docs) for working with the Genesys Cloud platform.
+A collection of reusable AI Agent [skills](https://skills.sh/docs) for working with the Genesys Cloud platform.
 
 ## Skills
 
